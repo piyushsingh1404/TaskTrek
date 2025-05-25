@@ -17,3 +17,5 @@ g++ main.cpp task_manager.cpp -o tasktrek
 ```
 ./tasktrek
 ```
+## 📸 Screenshot
+![TaskTrek Terminal](TaskTrek_Terminal.png)
